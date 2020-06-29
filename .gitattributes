@@ -1,0 +1,1 @@
+i386-wine-devel-5.8_1,1-5d8477f894.txz filter=lfs diff=lfs merge=lfs -text
